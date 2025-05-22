@@ -1,6 +1,6 @@
-# 🤖 Email Responded Bot
+# 🤖 ProseAI
 
-A personalized email assistant that reads your unread emails and writes thoughtful replies in your own prose style.
+A personalized email assistant that reads your unread emails and writes thoughtful replies in your prose style.
 
 Give it access to your inbox and a few example messages you've written — it'll learn your tone and style, and automatically draft replies for incoming unread messages.
 
