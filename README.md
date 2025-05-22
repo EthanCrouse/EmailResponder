@@ -9,13 +9,15 @@ Give it access to your inbox and a few example messages you've written — it'll
 - 🔐 Connects securely to your email (Gmail IMAP)
 - 📥 Fetches unread emails
 - 🧠 Learns from your writing samples (few-shot or fine-tuned)
-- ✍️ Drafts personalized responses
-- 💬 Outputs replies to console (or optionally sends them)
+- ✍️ Draft personalized responses
+- 💬 Outputs replies to the console (or optionally sends them)
 
 ## ✅ To-Do
- Add OAuth2 support for other emails such as Outlook
+ Add OAuth2 support for other emails, such as Outlook
 
  Improve response prediction accuracy
 
- Interactive user interface for email response
+ An interactive user interface for email response
+
+ Add the ability for email to automatically be sent
 
